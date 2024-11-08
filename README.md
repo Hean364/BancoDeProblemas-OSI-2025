@@ -4,10 +4,10 @@
 
 ## 📋 Objetivos
 
-- **Centralización de Problemas:** Mantener todos los problemas en un solo lugar para facilitar su acceso y gestión.
-- **Calidad y Consistencia:** Asegurar que cada problema cumpla con los estándares de calidad y formato establecidos.
-- **Colaboración Eficiente:** Facilitar la colaboración entre los organizadores para la creación y revisión de problemas.
-- **Seguridad y Privacidad:** Restringir el acceso únicamente a los organizadores para mantener la integridad de los problemas hasta el día de la competición.
+- Mantener todos los problemas en un solo lugar para facilitar su acceso y gestión.
+- Asegurar que cada problema cumpla con los estándares de calidad y formato establecidos.
+- Facilitar la colaboración entre los organizadores para la creación y revisión de problemas.
+- Restringir el acceso únicamente a los organizadores para mantener la integridad de los problemas hasta el día de la competición.
 
 ## 🗂️ Estructura del Repositorio
 
