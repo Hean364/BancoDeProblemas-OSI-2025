@@ -45,9 +45,6 @@ BancoDeProblemas-OSI-2025/
       - `solucion.py`: Solución en Python.
 - **README.md**: Descripción general del repositorio.
 - **CONTRIBUTING.md**: Guía para los organizadores sobre cómo contribuir al repositorio.
-- **CODE_OF_CONDUCT.md**: Código de conducta para mantener un ambiente colaborativo y respetuoso.
-- **LICENSE**: Información sobre la licencia del repositorio.
-- **.gitignore**: Archivos y carpetas que Git debe ignorar.
 
 ## 📜 Reglas y Directrices
 
