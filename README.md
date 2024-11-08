@@ -13,31 +13,30 @@
 
 ```
 BancoDeProblemas-OSI-2025/
-├──Area1/
-│  ├── problemas/
-│  │   ├── problema-01/
-│  │   │   ├── enunciado.md
-│  │   │   ├── input/
-│  │   │   │   ├── 1.in
-│  │   │   │   ├── 2.in
-│  │   │   │   └── ...
-│  │   │   ├── ouput/
-│  │   │   │   ├── 1.out
-│  │   │   │   ├── 2.out
-│  │   │   │   └── ...
+├──Área1/
+│  ├── problema-01/
+│  │   ├── enunciado.md
+│  │   ├── input/
+│  │   │   ├── 1.in
+│  │   │   ├── 2.in
+│  │   │   └── ...
+│  │   ├── ouput/
+│  │   │   ├── 1.out
+│  │   │   ├── 2.out
+│  │   │   └── ...
 │  │   │   └── soluciones/
 │  │   │       ├── solucion.cpp
 │  │   │       └── solucion.py
-│  │   ├── problema-02/
-│  │   │   ├── enunciado.md
-│  │   │   ├── input/
-│  │   │   │   ├── 1.in
-│  │   │   │   ├── 2.in
-│  │   │   │   └── ...
-│  │   │   ├── ouput/
-│  │   │   │   ├── 1.out
-│  │   │   │   ├── 2.out
-│  │   │   │   └── ...
+│  ├── problema-02/
+│  │   ├── enunciado.md
+│  │   ├── input/
+│  │   │   ├── 1.in
+│  │   │   ├── 2.in
+│  │   │   └── ...
+│  │   ├── ouput/
+│  │   │   ├── 1.out
+│  │   │   ├── 2.out
+│  │   │   └── ...
 │  │   │   └── soluciones/
 │  │   │       ├── solucion.cpp
 │  │   │       └── solucion.py
@@ -48,14 +47,16 @@ BancoDeProblemas-OSI-2025/
 
 ### **Descripción de Carpetas y Archivos:**
 
-- **problemas/**: Carpeta principal que contiene subcarpetas para cada problema.
+- **Área1/**: Carpeta principal que contiene subcarpetas para cada problema de cada área.
   - **problema-XX/**: Subcarpeta para cada problema, donde `XX` es el número del problema.
     - `enunciado.md`: Descripción detallada del problema en formato Markdown.
-    - `input.txt`: Datos de entrada de ejemplo.
-    - `output.txt`: Salida esperada correspondiente al `input.txt`.
+    - **input.txt/**: Subcarpeta input.
+      - `1.in`: Datos de entrada de ejemplo.
+    - **output.txt/**: Subcarpeta input.
+      - `1.out`: Datos de salida de ejemplo.
     - **soluciones/**: Carpeta que contiene las soluciones oficiales en diferentes lenguajes de programación.
-      - `solucion.cpp`: Solución en C++.
-      - `solucion.py`: Solución en Python.
+    - `solucion.cpp`: Solución en C++.
+    - `solucion.py`: Solución en Python.
 - **README.md**: Descripción general del repositorio.
 - **CONTRIBUTING.md**: Guía para los organizadores sobre cómo contribuir al repositorio.
 
