@@ -88,7 +88,7 @@ Cada enunciado debe seguir una estructura consistente para facilitar su comprens
 - Utilizar etiquetas específicas (por ejemplo, `bug`, `mejora`, `consulta`) para organizar y priorizar los issues.
 ## 🧩 Áreas a Evaluar
 
-Los problemas de la Olimpiada de Informática de El Salvador están categorizados en diferentes áreas temáticas y distribuidos en dos fases para evaluar de manera integral las habilidades de los participantes.
+Los problemas de la Olimpiada de Informática de El Salvador están categorizados en diferentes áreas temáticas y distribuidos en dos fases.
 
 ### **Áreas de Evaluación:**
 
