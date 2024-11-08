@@ -13,22 +13,35 @@
 
 ```
 BancoDeProblemas-OSI-2025/
-├── problemas/
-│   ├── problema-01/
-│   │   ├── enunciado.md
-│   │   ├── input.txt
-│   │   ├── output.txt
-│   │   └── soluciones/
-│   │       ├── solucion.cpp
-│   │       └── solucion.py
-│   ├── problema-02/
-│   │   ├── enunciado.md
-│   │   ├── input.txt
-│   │   ├── output.txt
-│   │   └── soluciones/
-│   │       ├── solucion.cpp
-│   │       └── solucion.py
-│   └── ...
+├──Area1/
+│  ├── problemas/
+│  │   ├── problema-01/
+│  │   │   ├── enunciado.md
+│  │   │   ├── input/
+│  │   │   │   ├── 1.in
+│  │   │   │   ├── 2.in
+│  │   │   │   └── ...
+│  │   │   ├── ouput/
+│  │   │   │   ├── 1.out
+│  │   │   │   ├── 2.out
+│  │   │   │   └── ...
+│  │   │   └── soluciones/
+│  │   │       ├── solucion.cpp
+│  │   │       └── solucion.py
+│  │   ├── problema-02/
+│  │   │   ├── enunciado.md
+│  │   │   ├── input/
+│  │   │   │   ├── 1.in
+│  │   │   │   ├── 2.in
+│  │   │   │   └── ...
+│  │   │   ├── ouput/
+│  │   │   │   ├── 1.out
+│  │   │   │   ├── 2.out
+│  │   │   │   └── ...
+│  │   │   └── soluciones/
+│  │   │       ├── solucion.cpp
+│  │   │       └── solucion.py
+│  │   └── ...
 ├── README.md
 ├── CONTRIBUTING.md
 ```
