@@ -86,8 +86,42 @@ Cada enunciado debe seguir una estructura consistente para facilitar su comprens
 
 - Utilizar la sección de **Issues** del repositorio para reportar errores, inconsistencias o sugerir mejoras en los problemas existentes.
 - Utilizar etiquetas específicas (por ejemplo, `bug`, `mejora`, `consulta`) para organizar y priorizar los issues.
+## 🧩 Áreas a Evaluar
 
+Los problemas de la Olimpiada de Informática de El Salvador están categorizados en diferentes áreas temáticas y distribuidos en dos fases para evaluar de manera integral las habilidades de los participantes.
 
+### **Áreas de Evaluación:**
+
+- **Greedy**
+- **Programación Dinámica (DP)**
+- **Matemáticas**
+- **Divide and Conquer**
+- **Range Queries**
+- **Estructuras de Datos Básicas** (pilas, colas, vectores, matrices)
+- **Ad Hoc**
+- **Complete Search**
+- **Binary Search**
+- **Combinatoria**
+- **Floodfill**
+- **Strings**
+
+### **Distribución por Fases:**
+
+#### **Fase 1:**
+- Greedy
+- Matemáticas
+- Divide and Conquer
+- Estructuras de Datos Básicas (pilas, colas, vectores, matrices)
+- Complete Search
+- Floodfill
+
+#### **Fase 2:**
+- Binary Search
+- Programación Dinámica (DP)
+- Range Queries
+- Strings
+- Combinatoria
+- Ad Hoc
 
 ## 📬 Contacto
 
