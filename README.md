@@ -88,7 +88,7 @@ Cada enunciado debe seguir una estructura consistente para facilitar su comprens
 
 ### 4. **Uso de Archivos de Input y Output:**
 
-- Asegurarse de que los archivos `input.txt` y `output.txt` sigan un formato consistente para facilitar las pruebas automáticas.
+- Asegurarse de que los archivos `X.in` y `X.out` sigan un formato consistente para facilitar las pruebas automáticas.
 - Cada problema debe tener múltiples casos de prueba para cubrir diferentes escenarios y asegurar la robustez de las soluciones.
 
 ### 5. **Evitar Divulgación de Soluciones:**
